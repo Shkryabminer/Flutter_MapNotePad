@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "555418984522",
+    "project_id": "fluttermapnotepad",
+    "storage_bucket": "fluttermapnotepad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555418984522:android:67f36dea39848cbdae06b3",
+        "android_client_info": {
+          "package_name": "com.example.map_note_pad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555418984522-1tv7l7u1602k2obdd79q1uqsisla4fba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.map_note_pad",
+            "certificate_hash": "16d12e1b3e63b89f0717f63b76a67311488b0fad"
+          }
+        },
+        {
+          "client_id": "555418984522-c5m9sst778e3t427nb6gnhqiqv0hlkpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR95eGk8Em_szHMLrtJ4_OzyzabwRf6l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555418984522-c5m9sst778e3t427nb6gnhqiqv0hlkpk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555418984522-vckbpahlnbh4tf3ttbsl8jaoio4ush1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapNotePad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
